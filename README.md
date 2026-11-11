@@ -1,3 +1,7 @@
+# Archyvas
+
+Projektas archyvuotas, jį pakeičia `lt-eid`: https://github.com/tadas-s/lt-eid
+
 # Kas tai?
 
 Nuo ~2026 Balandžio [OpenSC](https://github.com/OpenSC/OpenSC) projektas turi
